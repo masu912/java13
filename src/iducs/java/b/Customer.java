@@ -1,3 +1,4 @@
+
 package iducs.java.b;
 
 public abstract class Customer extends Human {
